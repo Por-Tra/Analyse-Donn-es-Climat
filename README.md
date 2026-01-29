@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://cplusplus.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A professional-grade C++ application for analyzing and visualizing meteorological data with interactive graphical representations.
 
